@@ -1,0 +1,17 @@
+{
+  "name": "typescript-kata-template",
+  "version": "1.0.0",
+  "description": "Template for codekatas using Typescript",
+  "main": "index.js",
+  "author": "Pablo Rodríguez Guillén <pablorodriguezguillen@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^25.1.1",
+    "jest": "^25.1.0",
+    "ts-jest": "^25.1.0",
+    "typescript": "^3.7.5"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
