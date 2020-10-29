@@ -12,6 +12,7 @@
     "typescript": "^3.9.6"
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:watch": "jest --watch"
   }
 }
